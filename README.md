@@ -1,18 +1,16 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQHP9OZgyiLqvQ/profile-displaybackgroundimage-shrink_350_1400/0/1633882324692?e=1650499200&v=beta&t=3LILgPyx4zliylUwktiaopGDIWd5UIHFRsPav7rrHS8)](http://forcebolt.com/)
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">A passionate full-stack developer from India. Right now I am working as Full-Stack Technical Lead in ForceBolt.</h3>
+<h3 align="center">A passionate full-stack developer from India. Right now I am working as Full-Stack Developer in Cloud Analogy.</h3>
 <h2>Domain of interests</h2>
     
 - 💻 Full-stack Web Develppment
-- 📱 Mobile Development
-- 👽 Cyber Security
-- 🦾 Artificial Intelligence
-- 💻 Chrome Extension
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorcloudanalogy&label=Profile%20views&color=0e75b6&style=flat" alt="kishorcloudanalogy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorcloudanalogy&label=Profile%20views&color=0e75b6&style=flat" alt="VivekSinghCloudanalogy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishorcloudanalogy" alt="kishorcloudanalogy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="VivekSinghCloudanalogy
+" /></a> </p>
 
 - 💬 Ask me about **React js, Next js, Node js, Adonis js, Docker, Javascript, Git,TypeScript AWS,  and other cloud services**
 
